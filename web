@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <!-- Temel Meta Bilgileri ve CSS -->
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Günlük Burç Yorumu</title>
+</head>
+<body>
+    <!-- Sayfa Başlığı -->
+    <header>
+        <h1>Günlük Burç Yorumları</h1>
+        <p><mark>Günlük astrolojik rehberliğinizi buradan alın!</mark></p>
+    </header>
+
+    <main>
+        <!-- Burç Listesi Bölümü -->
+        <section id="burc-listesi">
+            <h2>Tüm Burçlar</h2>
+            <ul>
+                <li>Koç</li>
+                <li>Boğa</li>
+                <li>İkizler</li>
+                <li>Yengeç</li>
+                <li>Aslan</li>
+                <li>Başak</li>
+                <li>Terazi</li>
+                <li>Akrep</li>
+                <li>Yay</li>
+                <li>Oğlak</li>
+                <li>Kova</li>
+                <li>Balık</li>
+            </ul>
+        </section>
+
+        <!-- Burç Başlıkları Bölümü -->
+        <section>
+            <h2>Günün Şanslı Burçları</h2>
+            <h3>Koç Burcu</h3>
+            <img src="https://via.placeholder.com/300x200?text=Ko%C3%A7+Burcu" alt="Koç Burcu" class="burc-image">
+            <h4>Boğa Burcu</h4>
+            <img src="https://via.placeholder.com/300x200?text=Bo%C4%9Fa+Burcu" alt="Boğa Burcu" class="burc-image">
+            <h5>İkizler Burcu</h5>
+            <img src="https://via.placeholder.com/300x200?text=%C4%B0kizler+Burcu" alt="İkizler Burcu" class="burc-image">
+            <h6>Yengeç Burcu</h6>
+            <img src="https://via.placeholder.com/300x200?text=Yenge%C3%A7+Burcu" alt="Yengeç Burcu" class="burc-image">
+            <p class="red-text">Bugün kendinizi enerjik ve yaratıcı hissedeceksiniz. Girişimlerinizi önceliklendirin.</p>
+            <p class="highlighted-text">Bazı konularda beklenmedik gelişmelere açık olun.</p>
+            <p><span class="bold-italic">Unutmayın:</span> Kendinize olan güven, başarıya giden yolun anahtarıdır.</p>
+        </section>
+
+        <!-- Günün Alıntısı Bölümü -->
+        <section>
+            <h2>Günün Alıntısı</h2>
+            <blockquote class="quote">“Astroloji, ruhumuzun evrenle uyumunu keşfetmemize yardımcı olur.”</blockquote>
+        </section>
+
+        <!-- Bağlantılar Bölümü -->
+        <section>
+            <h2>Bağlantılar</h2>
+            <p><a href="https://www.google.com" target="_blank">Google’a Git</a></p>
+            <p><a href="#burc-listesi">Burç Listesine Git</a></p>
+        </section>
+
+        <!-- Burç Özellikleri Tablosu -->
+        <section>
+            <h2>Burç Özellikleri Tablosu</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Burç</th>
+                        <th>Element</th>
+                        <th>Özellikler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Koç</td>
+                        <td>Ateş</td>
+                        <td>Cesur, Enerjik</td>
+                    </tr>
+                    <tr>
+                        <td>Boğa</td>
+                        <td>Toprak</td>
+                        <td>Sabırlı, Güvenilir</td>
+                    </tr>
+                    <tr>
+                        <td>İkizler</td>
+                        <td>Hava</td>
+                        <td>Zeki, İletişimci</td>
+                    </tr>
+                    <tr>
+                        <td>Yengeç</td>
+                        <td>Su</td>
+                        <td>Duygusal, Şefkatli</td>
+                    </tr>
+                    <tr>
+                        <td>Aslan</td>
+                        <td>Ateş</td>
+                        <td>Karizmatik, Lider</td>
+                    </tr>
+                    <tr>
+                        <td>Başak</td>
+                        <td>Toprak</td>
+                        <td>Analitik, Detaycı</td>
+                    </tr>
+                    <tr>
+                        <td>Terazi</td>
+                        <td>Hava</td>
+                        <td>Adaletli, Zarif</td>
+                    </tr>
+                    <tr>
+                        <td>Akrep</td>
+                        <td>Su</td>
+                        <td>Tutkulu, Gizemli</td>
+                    </tr>
+                    <tr>
+                        <td>Yay</td>
+                        <td>Ateş</td>
+                        <td>Macera Dolu, Felsefi</td>
+                    </tr>
+                    <tr>
+                        <td>Oğlak</td>
+                        <td>Toprak</td>
+                        <td>Disiplinli, Azimli</td>
+                    </tr>
+                    <tr>
+                        <td>Kova</td>
+                        <td>Hava</td>
+                        <td>Özgün, İnsancıl</td>
+                    </tr>
+                    <tr>
+                        <td>Balık</td>
+                        <td>Su</td>
+                        <td>Hayalperest, Şefkatli</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <!-- Sayfa Altbilgisi -->
+    <footer>
+        <p>&copy; 2024 Günlük Burç Yorumları. Tüm hakları saklıdır.</p>
+    </footer>
+</body>
+</html>
