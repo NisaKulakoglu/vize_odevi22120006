@@ -39,13 +39,13 @@
         <section>
             <h2>Günün Şanslı Burçları</h2>
             <h3>Koç Burcu</h3>
-            <img src="https://via.placeholder.com/300x200?text=Ko%C3%A7+Burcu" alt="Koç Burcu" class="burc-image">
+            <img src="aries.png" alt="Koç Burcu" class="burc-image">
             <h4>Boğa Burcu</h4>
-            <img src="https://via.placeholder.com/300x200?text=Bo%C4%9Fa+Burcu" alt="Boğa Burcu" class="burc-image">
+            <img src="taurus.png" alt="Boğa Burcu" class="burc-image">
             <h5>İkizler Burcu</h5>
-            <img src="https://via.placeholder.com/300x200?text=%C4%B0kizler+Burcu" alt="İkizler Burcu" class="burc-image">
+            <img src="gemini.png" alt="İkizler Burcu" class="burc-image">
             <h6>Yengeç Burcu</h6>
-            <img src="https://via.placeholder.com/300x200?text=Yenge%C3%A7+Burcu" alt="Yengeç Burcu" class="burc-image">
+            <img src="cancer.png" class="burc-image">
             <p class="red-text">Bugün kendinizi enerjik ve yaratıcı hissedeceksiniz. Girişimlerinizi önceliklendirin.</p>
             <p class="highlighted-text">Bazı konularda beklenmedik gelişmelere açık olun.</p>
             <p><span class="bold-italic">Unutmayın:</span> Kendinize olan güven, başarıya giden yolun anahtarıdır.</p>
@@ -59,9 +59,9 @@
 
         <!-- Bağlantılar Bölümü -->
         <section>
-            <h2>Bağlantılar</h2>
-            <p><a href="https://www.google.com" target="_blank">Google’a Git</a></p>
-            <p><a href="#burc-listesi">Burç Listesine Git</a></p>
+            <h2>Göz Atabilecekleriniz</h2>
+            <p><a href="https://www.instagram.com/astrologyzone?igsh=MWJya2VpODY2NXVwag==" target="_blank">Ünlü Astrolog: Susan Miller</a></p>
+            <p><a href="#burc-listesi">Tüm Burçlar Listesine Geri Dön</a></p>
         </section>
 
         <!-- Burç Özellikleri Tablosu -->
