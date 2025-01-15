@@ -45,7 +45,7 @@ p {
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-    color: red;
+    color: rgb(241, 12, 12);
 }
 .quote {
     font-style: italic;
